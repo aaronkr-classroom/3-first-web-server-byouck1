@@ -11,7 +11,7 @@ const port = 3000,
 
 // HTML 파일에 매핑되는 라우트 설정
 const routeMap = {
-  "/": "views/index.html",
+  "/": "<views/index.html>",
 };
 
 http
